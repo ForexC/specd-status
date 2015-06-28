@@ -4,7 +4,7 @@
 
 This is a small PHP application designed to display status and information from the SPEC node daemon.
 
-![Node GUI](/img/NodeGui.png?raw=true "Node GUI")
+![Node GUI](/img/NodeGUI.png?raw=true "Node GUI")
 
 # Table of Contents
 
